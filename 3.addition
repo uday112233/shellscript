@@ -1,0 +1,5 @@
+#!/bin/bash
+# this is addition of two numbers
+n1=$1
+n2=$2
+SUM=$((n1+n2))
