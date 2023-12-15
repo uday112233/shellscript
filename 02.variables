@@ -1,0 +1,7 @@
+#/bin/bash
+echo "i am learning shell script"
+p1=RAMESH
+p2=uday
+
+echo "$p1:hi"
+echo "$p2:hello"
