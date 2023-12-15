@@ -3,3 +3,6 @@
 echo "enter user name"
 read UN
 echo "Username entered is :$UN"
+echo "enter user password"
+read kg
+echo "pwd entered:$kg"
