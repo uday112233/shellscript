@@ -2,6 +2,8 @@
 echo "i am learning shell script"
 p1=RAMESH
 p2=uday
+DATE=$(date)
 
 echo "$p1:hi"
 echo "$p2:hello"
+echo "the script is executed at: $DATE"
