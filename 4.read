@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "enter user name"
-read UN
+read -s UN
 echo "Username entered is :$UN"
 echo "enter user password"
-read kg
+read -s kg
 echo "pwd entered:$kg"
